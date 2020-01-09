@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		YUR Workout Table to CSV
-// @namespace	https://discord.gg/CNRRTda
+// @namespace		https://github.com/Bootscreen/YUR-Workout-Export-Script
 // @version		0.3
 // @description export the Workout table to Clipboard or File (Clipboard only works as global Button)
 // @author		Bootscreen
